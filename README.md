@@ -1,3 +1,3 @@
-# StateControllerExtension
+# Takex SCX Pack
 
-- Add/Patch new state controller
+- Example SCX
